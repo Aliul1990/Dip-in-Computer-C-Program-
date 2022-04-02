@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_workspace_file>
+	<Workspace title="Workspace">
+		<Project filename="HelloWorld/HelloWorld.cbp" />
+		<Project filename="Personal Information/Personal Information.cbp" />
+		<Project filename="Addition/Addition.cbp" />
+		<Project filename="Subtraction/Subtraction.cbp" />
+		<Project filename="Multiplication/Multiplication.cbp" />
+		<Project filename="Division/Division.cbp" />
+		<Project filename="Modulus/Modulus.cbp" />
+		<Project filename="UserInputCalculator/UserInputCalculator.cbp" />
+		<Project filename="FunctionCall/FunctionCall.cbp" />
+		<Project filename="ArrayDataInsertion/ArrayDataInsertion.cbp" />
+		<Project filename="ArrayDataDelet/ArrayDataDelet.cbp" />
+		<Project filename="ArrayDataDeletaion/ArrayDataDeletaion.cbp" />
+		<Project filename="2 Multiplication/2 Multiplication.cbp" />
+		<Project filename="PushAndPopOperation/PushAndPopOperation.cbp" />
+	</Workspace>
+</CodeBlocks_workspace_file>
